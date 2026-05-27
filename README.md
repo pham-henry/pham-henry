@@ -51,4 +51,3 @@ These days, I’m especially interested in building reliable systems that connec
 ## Find me here:
 
 - [LinkedIn](https://linkedin.com/in/pham-henry)
-- [GitHub](https://github.com/pham-henry)
